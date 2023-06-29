@@ -92,3 +92,8 @@ export const footerLinks = [
     ],
   },
 ];
+
+export const PROJECT_ACTIONS = {
+  create: "CREATE",
+  edit: "EDIT",
+};

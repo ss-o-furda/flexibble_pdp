@@ -30,6 +30,7 @@ const Footer = () => {
             width={115}
             height={38}
             alt="flexible purple logo"
+            priority
           />
           <p className="text-start text-sm font-normal mt-5 max-w-xs">
             Orest&apos;s PDP for salary bump! Please give me a lot of money to
